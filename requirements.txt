@@ -1,0 +1,7 @@
+requests
+bs4
+openai
+serpapi
+tqdm
+python-dotenv
+streamlit
